@@ -18,7 +18,8 @@ I specialize in scenes, dialogues, quests, and choices with consequences.
 A narrative short story set in feudal Japan.  
 Themes: honor, duty, moral conflict, tragedy.
 
-- Full Text (EN) — *coming soon*    
+- Full Text (EN) — *coming soon*
+- Cutscene Sample (Text Version)
 - Dialogue Sample — *coming soon*  
 - Quest Design — *coming soon*
 
