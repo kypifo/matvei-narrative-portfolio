@@ -1,4 +1,4 @@
-# matvei-narrative-portfolio
+# Matvei-narrative-portfolio
 # Matvei — Narrative Designer / Game Writer
 
 I write atmospheric, cinematic, character‑driven stories with strong emotional focus.  
