@@ -24,11 +24,7 @@ Themes: honor, duty, moral conflict, tragedy.
 - Quest Design — *coming soon*
 
 ### Second Story (Coming Soon)
-
-## Game Writing Samples
-- Choices & Consequences — *coming soon*  
-- Narrative Philosophy — *coming soon*  
-
+ 
 ## Contact
 Email: matchem1010@gmail.com  
 Discord: kypifo
