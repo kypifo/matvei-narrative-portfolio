@@ -1,4 +1,4 @@
-# The name of story: Spring is not eternal
+# Spring is not eternal
 ## Genre: 
 Japanese parable
 ## Main theme: 
