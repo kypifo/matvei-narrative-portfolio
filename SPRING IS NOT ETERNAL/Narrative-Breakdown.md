@@ -194,3 +194,205 @@ The player's choices influence the protagonist's relationship with his daimyō, 
 | Kill the rice thief | The original mission is completed. | The protagonist discovers the consequences of blindly following orders. |
 | Remain in exile | The protagonist abandons the daimyō. | He lives as a hermit under the constant threat of being hunted. |
 | Return to the daimyō | The protagonist confronts his former master. | His final fate is determined by the choices made throughout the story. |
+
+
+# Worldbuilding & Research
+
+The story is set in Japan during the Edo period. The worldbuilding was developed through research into Japanese history, culture, social structure, geography, climate, traditions, and everyday life.
+
+The research was used not only to establish the historical setting, but also to influence character behavior, narrative events, and the protagonist's journey.
+
+## Historical and Cultural Research
+
+The research covered:
+
+- Clothing and traditional dress of the Edo period
+- Japanese traditions and customs
+- Samurai traditions and rituals
+- Different types and social positions of samurai
+- The social hierarchy of Edo-period Japan
+- The relationship between daimyō and samurai
+- The lives of samurai and ordinary people
+- Rural life and agriculture
+- Rice cultivation and its importance to society
+- Traditional Japanese architecture and interiors
+- Traditional Japanese units of measurement
+- Religious and purification practices
+- Everyday customs and social etiquette
+
+## The Gōshi Samurai
+
+The protagonist is a gōshi — a rural samurai whose social position strongly influences his behavior.
+
+His attitude toward ordinary people is deliberately connected to his perception of his own status. He considers himself separate from peasants and refuses their hospitality because he wants to maintain the identity and status he associates with being a samurai.
+
+This makes the protagonist's social position an important part of his characterization rather than simply a historical detail.
+
+His attitude gradually becomes part of the story's central moral conflict. He believes that samurai represent honor and justice, while ordinary people are morally inferior. His journey eventually forces him to confront how false this perception is.
+
+## Samurai Ritual and Ceremony
+
+The story includes a detailed depiction of the protagonist's purification ritual before entering the shūri.
+
+The scene describes the ritual step by step, including:
+
+- Approaching the purification fountain
+- Kneeling before the entrance
+- Taking the wooden ladle
+- Washing the left hand
+- Switching hands and repeating the process
+- Completing the purification before entering the shūri
+
+The ritual demonstrates the protagonist's adherence to the traditions and discipline he associates with the samurai way of life.
+
+It also serves a narrative purpose. The purification marks the transition between the protagonist's ordinary life and his role as a samurai carrying out the daimyō's order.
+
+## Traditional Measurements
+
+Traditional Japanese units of measurement were incorporated into the descriptions of the setting.
+
+The use of period-appropriate terminology helps maintain the historical atmosphere and reinforces the cultural context of the story.
+
+## Geography and Regional Research
+
+The story uses real Japanese locations and geographical features.
+
+The research included:
+
+- Real cities and provinces
+- Regional characteristics
+- Climate and weather
+- Mountains and forests
+- Rivers and waterways
+- Agricultural areas
+- Rural settlements
+- Realistic travel routes
+
+The protagonist travels from Kurashiki toward Izumo, passing through mountainous terrain, forests, rivers, and rural settlements.
+
+The route was checked using real maps to establish a believable journey and estimate travel time.
+
+## Kurashiki
+
+Kurashiki serves as the protagonist's home and the location of the daimyō's residence.
+
+The city and surrounding region were researched in relation to their geography, agriculture, trade, architecture, and historical development during the Edo period.
+
+The story depicts Kurashiki through its markets, people, agricultural surroundings, and the fortified environment associated with the protagonist's samurai life.
+
+## Izumo
+
+Izumo serves as the destination of the protagonist's mission.
+
+The region's strong connection with agriculture and rice cultivation was incorporated into the narrative.
+
+This makes the rice theft central to the setting rather than an arbitrary crime. Nakanū Nishimura works in the rice fields and steals rice because his family is struggling with poverty.
+
+The setting therefore connects the protagonist's mission, the local economy, and the victim's personal circumstances through the same element — rice.
+
+## Rural Life and Social Contrast
+
+The story deliberately contrasts two social worlds.
+
+The protagonist sees the samurai environment as a place of honor, discipline, and justice, while viewing ordinary people as simple and morally inferior.
+
+In contrast, the villagers he encounters are willing to:
+
+- Provide shelter
+- Offer food
+- Help him cross the river
+- Assist him without expecting anything in return
+
+This contrast gradually undermines the protagonist's beliefs.
+
+The rice thief is also presented within this social context. Nakanū Nishimura steals rice because his family is struggling to survive.
+
+His actions are therefore presented not simply as criminal behavior, but as a consequence of poverty and desperation.
+
+## Geographic Journey
+
+The protagonist's journey from Kurashiki to Izumo takes approximately two days in the story.
+
+The route was compared with real-world maps to establish a plausible distance and travel time.
+
+The journey also accounts for the protagonist's difficult conditions:
+
+- Heavy armor
+- Mountainous terrain
+- Rivers
+- Forests
+- Fog
+- Rain
+- Lack of food
+- Lack of sleep
+- Lack of rest
+
+The physical difficulty of the journey contributes directly to the protagonist's exhaustion and gradually intensifies the psychological pressure surrounding his mission.
+
+## Takahashi River
+
+The Takahashi River is incorporated as a real geographical feature during the protagonist's journey.
+
+It functions as both a natural obstacle and a narrative element. After refusing the villagers' help, the protagonist continues through the forest and eventually falls into the river.
+
+The river sequence also demonstrates how the player's earlier choice can affect the protagonist's journey without changing the main narrative outcome.
+
+## Climate and Environment
+
+The story incorporates environmental conditions associated with the region and season.
+
+The journey includes:
+
+- Spring sunlight
+- Strong winds
+- Cherry blossoms
+- Mountains
+- Dense forests
+- Fog
+- Rivers
+- Rain
+- Wet and difficult terrain
+
+The environment is not merely decorative. It affects the protagonist's physical condition, the pacing of his journey, and the atmosphere of individual scenes.
+
+## Rice and Agriculture
+
+Rice is repeatedly used throughout the story as both a material necessity and a narrative symbol.
+
+The protagonist begins the story working his own land and worrying about completing the planting before the end of spring.
+
+Later, he is ordered to kill a man who steals rice because his family is starving.
+
+The same element therefore connects:
+
+- The protagonist's abandoned farm
+- Rural life
+- The importance of rice
+- Poverty
+- The rice thief
+- The murder
+- The mother's suffering
+
+Rice becomes a recurring connection between the protagonist's ordinary life and the consequences of his actions.
+
+## Research as a Narrative Tool
+
+Historical and geographical research was used to support narrative decisions rather than simply provide background information.
+
+Research influenced:
+
+- The protagonist's social identity
+- His attitude toward peasants
+- His refusal of the villagers' help
+- The villagers' way of life
+- The importance of rice
+- The circumstances of the rice thief
+- The protagonist's route
+- The geographical obstacles he encounters
+- The cultural rituals shown in the story
+- The architecture and interiors
+- The clothing and equipment
+- The environmental atmosphere
+- The pacing and physical difficulty of the journey
+
+The research therefore serves both **worldbuilding and characterization**, allowing the historical setting to directly shape the narrative and the protagonist's decisions.
