@@ -180,3 +180,17 @@ Eliminate the rice thief Nakanū Nishimura in Izumo.
 — The protagonist accepts the daimyō's reward of rice and returns home.
 
 **Ending.**
+
+## Choices & Consequences
+
+The player's choices influence the protagonist's relationship with his daimyō, the course of his journey, and his eventual fate.
+
+| Choice | Immediate Consequence | Long-Term Consequence |
+|---|---|---|
+| Refuse the daimyō's order | The protagonist is immediately executed. | Game over. |
+| Accept the villagers' help | The protagonist delays his journey. | His relationship with the daimyō worsens, but he avoids the river accident. |
+| Refuse the villagers' help | The protagonist continues his journey. | His relationship with the daimyō remains unchanged, but he later falls into the river. |
+| Spare the rice thief | The target remains alive. | The daimyō becomes hostile toward the protagonist. |
+| Kill the rice thief | The original mission is completed. | The protagonist discovers the consequences of blindly following orders. |
+| Remain in exile | The protagonist abandons the daimyō. | He lives as a hermit under the constant threat of being hunted. |
+| Return to the daimyō | The protagonist confronts his former master. | His final fate is determined by the choices made throughout the story. |
