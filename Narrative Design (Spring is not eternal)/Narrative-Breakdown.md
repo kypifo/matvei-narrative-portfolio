@@ -10,3 +10,4 @@ The idea of the story is to convey the importance of morality, critical thinking
 * The Daimyō
 * The Mother of the Executed Man
 * The Rice Thief
+* 
